@@ -18,6 +18,8 @@ https://streams.livetv.az/azerbaijan/dunya/chunks.m3u8
 https://streams.livetv.az/azerbaijan/arb/chunks.m3u8
 #EXTINF:0,ARB 24
 http://85.132.81.184:8080/arb24/liveStream1/index.m3u8
+# EXTINF: 0, ARB GUNES
+https://streams.livetv.az/azerbaijan/gunes/chunks.m3u8
 #EXTINF:0,DALGA TV
 https://streams.livetv.az/azerbaijan/dalga/chunks.m3u8
 #EXTINF:0,INTER AZ
