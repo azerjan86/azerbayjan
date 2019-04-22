@@ -1,0 +1,38 @@
+#EXTINF:-1, AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1, Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1, Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
+#EXTINF:-1, Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1, ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1, Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1, Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1, CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1, Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1, Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1, Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1, Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1, Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1, Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1, CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1, MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1, Arb Ulduz
+http://mfe.cliptv.az/dash/ARB_Ulduz_SD.ism/playlist.mpd
+#EXTINF:-1, Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1, ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
